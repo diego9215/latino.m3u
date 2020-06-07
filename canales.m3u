@@ -1,344 +1,1457 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="Canales de Peliculas" 
-
-logo="https://png.pngtree.com/templates/md/20180617/md_5b260732407c2.jpg", FM | HD
-http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Colombianos" 
-
-logo="http://i.imgur.com/dmHjzfS.png", Tele Islas | SD
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales de Peliculas" 
-
-logo="https://png.pngtree.com/templates/md/20180617/md_5b260732407c2.jpg", LA E | HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Argentinos" 
-
-logo="http://i.imgur.com/qmFK5y8.gif", Canal Provincial | SD
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
-
-#EXTINF:-1,TELESUR
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Costarricenses" 
-
-logo="http://i.imgur.com/Zkfw06k.jpg", Ticavision | SD
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Mexicanos" 
-
-logo="http://i.imgur.com/A9kTYN8.png", Multimedios Monterrey | HD
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales de Animacion" 
-
-logo="http://i.imgur.com/IU9Fc8P.png", Boing | HD
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Salvadoreños" 
-
-logo="http://i.imgur.com/PY3566n.png", WOW TV | SD | OK
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Mexicanos" 
-
-logo="http://i.imgur.com/A9kTYN8.png", Multimedios Laguna | HD
-http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Mexicanos" 
-
-logo="http://i.imgur.com/VHSjbEj.png", Milenio | SD
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Mexicanos" 
-
-logo="http://i.imgur.com/dFQBOLD.png", Canal Once IPN | HD
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Mexicanos" 
-
-logo="http://i.imgur.com/eFfX2fC.jpg", Canal 4 | SD
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Mexicanos" 
-
-logo="http://i.imgur.com/qMgoMeO.png", Canal 20 Zacatecas | SD
-http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/p
-
-laylist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Mexicanos" 
-
-logo="http://i.imgur.com/MeaSmiv.jpg", 15TV Sabinas | SD
-http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Panameños" 
-
-logo="http://i.imgur.com/BxZR6fX.png", Nex TV | SD
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Peruanos" 
-
-logo="http://i.imgur.com/z7cueNf.png", Top Latino | SD
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Uruguayos" 
-
-logo="http://i.imgur.com/skLKmML.png", Canal-M | HD
-http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Miscelaneos" 
-
-logo="http://i.imgur.com/vTv1ysB.png", FTV | FHD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Miscelaneos" 
-
-logo="http://i.imgur.com/HiSjDAa.png", HD Fashion & Lifestyle | FHD
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales de Noticias" 
-
-logo="http://i.imgur.com/5Nd9z70.png", Bloomberg TV US | HD
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales de Noticias" 
-
-logo="http://i.imgur.com/Q2WEX34.png", Deutsche Welle Latino | SD
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales de Noticias" 
-
-logo="http://i.imgur.com/fyOjHZ8.png", Arirang | HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales de Noticias" 
-
-logo="http://i.imgur.com/tlU5Unv.png", NOTV 41 New Orleans - Louisiana | HD
-http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Costarica" 
-
-logo="https://i0.wp.com/unored.tv/wp-content/uploads/2015/08/Extrema-TV-portal-Unored-
-
-1.png", Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales de noticias" 
-
-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/cgtn-espa%C3%B1ol.png", 
-
-CGTN | ESP
-https://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales de noticias" 
-
-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/telesafor-324x160.png", TS | 
-
-ESP
-http://video.telesafor.com/hls/video_low.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales de Peliculas" 
-
-logo="https://www.cxtv.com.br/img/Tvs/Logo/56c611bbbfb2aa39c8e7a34365638d3c.jpg", 
-
-TELEMAX | HD
-http://live-
-
-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Españoles" logo="https://live-tv-
-
-channels.org/pt-data/uploads/logo/es-galicia-tv-europa-5859.jpg", Galicia | HD
-http://europa-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales de Musica" 
-
-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/RTV_logo.png", Retro TV | ESP
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales Mexicanos" 
-
-logo="https://www.5900.tv/wp-content/uploads/2019/05/milenio830.jpg", Milenio | ESP
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales de noticias" logo="https://live-tv-
-
-channels.org/pt-data/uploads/logo/pa-nex-tv-canal-21-3964.jpg", Nex TV | ESP
-http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Canales de Musica" 
-
-logo="https://www.porto.it/radio/it_m2otv.jpg", Radio M20 | ESP
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
-
-#EXTINF:-1,ZACATECAS
-http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/p
-
-laylist.m3u8
-
-#EXTINF: -1, LATINO: La Mega Mundial
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-
-#EXTINF: 0, Milenio | Dakota del Sur
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-
-#EXTINF: .1, MULTIVISIÓN
-http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", 13 Max Television
-http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Quatro TV
-https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Canal 4 Bahia Blanca
-https://cdn2.zencast.tv:30443/bahiablanca/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Canal 6 Moreno
-https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80660_Canal_2_Mar_del_Plata.jpg", 
-
-Canal#EXTINF:-1,CANAL OLAVARRIA
-https://inliveserver.com:1936/8546/8546/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Canal 12 Madryn TV
-https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45090_10_TV.png", 10 TV
-http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Terramia TV
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Litus TV
-http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Canal 4 San Juan
-http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Canal Nueve TV
-https://live.canalnueve.tv/canal.m3u8
-
-#EXTINF:-1, PAT
-http://192.99.38.174:1935/patbolivia/patsantacruz/chunklist_w654893762.m3u8
-
-#EXTINF: -1, LOGOS
-http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
-
-#EXTINF:-1,CENTRAL TV PERU
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
-#EXTINF:0,UCSG
-http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
-
-#EXTINF:-1,EITB
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-
-#EXTINF:-1 , COSMO TV
-http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
-
-#EXTINF:-1,TELESISTEMA DOMINICANA
-http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8
-
-#EXTINF:0, RCG TV Coahuila
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-
-#EXTINF:-1 , America TV
-http://89.105.194.59:25461/live/per44dd/per44dd/139.m3u8
-
-#EXTINF:-1 , ATV 
-http://89.105.194.59:25461/live/per44dd/per44dd/141.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="http://127.0.0.1/", 
-
-Chicos IPe
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:0 type="stream" channelId="2489" group="entretenimiento" 
-
-logo="http://puu.sh/mb2AM/887927ece3.png", Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="MEXICO" 
-
-logo="http://nrtmexico.mx/site/images/sampledata/icetheme/slideshow/c4_slide_a.jpg", Canal 4 
-
-Monclova
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="2725" group="Entretenimiento" 
-
-logo="http://photocall.tv/images/13max.png", 13 MAX
-http://coninfo.net:1935/13maxhd/live_720p/.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="HONDURAS" 
-
-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png", TSi
-https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
-
-#EXTINF:0 type="stream" channelId="2531" group="entretenimiento" logo="http://127.0.0.1/", TV 
-
-Galicia
-http://america-crtvg.flumotion.com/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="4039" group="entretenimiento" 
-
-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png", 
-
-Garage TV
-http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", Antares TV
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="entretenimiento" logo="http://127.0.0.1/", Canal 
-
-Capital HD
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="SPAIN" 
-
-logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png", Vega 
-
-Baja TV
-http://185.29.68.24/tvb.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="MUSICA" 
-
-logo="https://lh3.googleusercontent.com/i1MJYrbhLfwErktZjjue1a98T6n8yzU6sNo-
-
-3b_ihoQglxFGipTO4yfmqBBk4AC7lA=s180-rw", Frecuencia Musical Tv
-http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" name="achoAPPS.com COLOSAL TV" group="musica" 
-
-logo="http://127.0.0.1/" tvg-country="mx", Colosal TV
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", MTV NOW
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="musica" 
-
-logo="http://photocall.tv/images/musictop.png", Music Top
-http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
-
-#EXTINF:0 type="stream" channelId="-1", PFM TV
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?
-
-iptvgratis?chile.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="USA" logo="http://127.0.0.1/", American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="HONDURAS" logo="http://4.bp.blogspot.com/-
-
-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg", TEN 10
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3
-
-u8
-
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers" tvg-logo="" group-title="24/7",24/7 Power Rangers
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/303
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Robotech" tvg-logo="" group-title="24/7",24/7 Robotech
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/304
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91hlEHPUb1L._SL1500_.jpg" group-title="24/7",24/7 Sailor Moon
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/305
+#EXTINF:-1 tvg-id="" tvg-name="24/7  South Park" tvg-logo="" group-title="24/7",24/7  South Park
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/309
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Spider-Man" tvg-logo="" group-title="24/7",24/7 Spider-Man
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/310
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Thundercats" tvg-logo="" group-title="24/7",24/7 Thundercats
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/314
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LazyTown" tvg-logo="" group-title="24/7",24/7 LazyTown
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/323
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/342
+#EXTINF:-1 tvg-id="" tvg-name="24/7 He-Man" tvg-logo="" group-title="24/7",24/7 He-Man
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/353
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR: ECUAVISA HD" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/ecuavisa.jpg" group-title="POR PAISES ",ECUADOR: ECUAVISA HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/513
+#EXTINF:-1 tvg-id="" tvg-name="PE: Latina" tvg-logo="" group-title="POR PAISES ",PE: Latina
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/560
+#EXTINF:-1 tvg-id="" tvg-name="RCN SD" tvg-logo="https://cdn.colombia.com/sdi/2018/02/19/a-pesar-de-la-crisis-el-canal-rcn-no-esta-en-quiebra-611066.jpg" group-title="POR PAISES ",RCN SD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1708
+#EXTINF:-1 tvg-id="" tvg-name="|TELEMUNDO INTERNACIONA" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg" group-title="ENTRETENIMIENTO",|TELEMUNDO INTERNACIONA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/301
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="ENTRETENIMIENTO",EL GOURMET
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/548
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://experience-lifetime.tbxnet.com/images/logo.png" group-title="ENTRETENIMIENTO",LIFETIME
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/550
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="ENTRETENIMIENTO",TLC
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1017
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="http://i.televisa.com/2017/04/distrito_comedia.jpg" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1522
+#EXTINF:-1 tvg-id="" tvg-name="UNIMAS" tvg-logo="https://pbs.twimg.com/profile_images/665169187946364929/2y3w3T8E_400x400.jpg" group-title="ENTRETENIMIENTO",UNIMAS
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1707
+#EXTINF:-1 tvg-id="" tvg-name="GLITZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="ENTRETENIMIENTO",GLITZ
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1527
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo.png" group-title="MUNDO Y CULTURA",DISCOVERY CHANNEL
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/488
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="MUNDO Y CULTURA",HISTORY CHANNEL
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/494
+#EXTINF:-1 tvg-id="" tvg-name="EUROCHANNEL" tvg-logo="https://cdn.mitvstatic.com/channels/pe_eurochannel_m.png" group-title="CINEMA Y SERIES ",EUROCHANNEL
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/57
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="" group-title="CINEMA Y SERIES ",STUDIO UNIVERSAL
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/58
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESP" tvg-logo="https://ugc.kn3.net/i/760x/http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/200px-TNT_TV_logo.svg.png" group-title="CINEMA Y SERIES ",TNT ESP
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/59
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK  ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paramount.png/245px-Paramount.png" group-title="CINEMA Y SERIES ",PARAMOUNT NETWORK  ESP
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/67
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-movies_m.png" group-title="CINEMA Y SERIES ",FOX MOVIES
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/82
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA CLASICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/DP_Cl%C3%A1sico.svg/1200px-DP_Cl%C3%A1sico.svg.png" group-title="CINEMA Y SERIES ",DE PELICULA CLASICO
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/96
+#EXTINF:-1 tvg-id="" tvg-name="SONY ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/1200px-Canal_Sony_logo.svg.png" group-title="CINEMA Y SERIES ",SONY ESP
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/100
+#EXTINF:-1 tvg-id="" tvg-name="ISAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="CINEMA Y SERIES ",ISAT
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1523
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | DISNEY JR." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Disney_Junior.svg.png" group-title="KIDS",NIÑOS | DISNEY JR.
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/419
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | BOOMERANG" tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="KIDS",NIÑOS | BOOMERANG
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/425
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | TOONCAST" tvg-logo="https://www.lamac.org/system/channels/logos/000/000/013/original/pic_tooncast.png" group-title="KIDS",NIÑOS | TOONCAST
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/429
+#EXTINF:-1 tvg-id="" tvg-name=" BANDAMAX" tvg-logo="" group-title="MUSICA", BANDAMAX
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/532
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT URBANO" tvg-logo="https://i.ytimg.com/vi/2zeobDZbNYA/maxresdefault.jpg" group-title="MUSICA",TELEHIT URBANO
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1520
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | Espn 1 Sur" tvg-logo="https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg" group-title="DEPORTES",DEOORTES | Espn 1 Sur
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/377
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1200px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES",DEOORTES | Fox Sports 1
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/383
+#EXTINF:-1 tvg-id="" tvg-name="|Espn 1 Mex" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn_m.png" group-title="DEPORTES",|Espn 1 Mex
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/465
+#EXTINF:-1 tvg-id="" tvg-name="|Espn 2 Mex" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png" group-title="DEPORTES",|Espn 2 Mex
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/466
+#EXTINF:-1 tvg-id="" tvg-name="|Espn 3 Mex" tvg-logo="https://i.pinimg.com/564x/2c/0c/66/2c0c66955aed89f3edc16e5e1cd27c89.jpg" group-title="DEPORTES",|Espn 3 Mex
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/467
+#EXTINF:-1 tvg-id="" tvg-name="MX | TUDN" tvg-logo="https://s23657.pcdn.co/wp-content/uploads/2019/07/image_TUDN_logo-768x529.jpg" group-title="DEPORTES",MX | TUDN
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/470
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/512
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="DEPORTES",AR | TNT SPORTS HD 
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/501
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS PREMIUM HD" tvg-logo="https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png" group-title="DEPORTES",AR | FOX SPORTS PREMIUM HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/500
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",DEOORTES | Fox Sports 2
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/384
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | Fox Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",DEOORTES | Fox Sports 3
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/385
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | Espn 2 Sur" tvg-logo="https://cdn.mitvstatic.com/channels/mx_espn-2_m.png" group-title="DEPORTES",DEOORTES | Espn 2 Sur
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/378
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | TyC Sports Internacional" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tyc-sports-en-vivo-830.png" group-title="DEPORTES",DEOORTES | TyC Sports Internacional
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/373
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | DIRECTV SPORTS 1" tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="DEPORTES",DEOORTES | DIRECTV SPORTS 1
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/364
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | DIRECTV SPORTS 2" tvg-logo="https://futbolhoy.com.ar/wp-content/uploads/2019/03/directvsports2.jpg" group-title="DEPORTES",DEOORTES | DIRECTV SPORTS 2
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/365
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Tainment HD" tvg-logo="" group-title="ULTRA USA",Ultra Tainment HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/386
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Mex HD" tvg-logo="" group-title="ULTRA USA",Ultra Mex HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/387
+#EXTINF:-1 tvg-id="" tvg-name="USA:Nat geo wild HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild-hd_m.png" group-title="USA ",USA:Nat geo wild HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/997
+#EXTINF:-1 tvg-id="MilenioTelevisin.mx" tvg-name="MEXICO|Milenio TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="NOTICIAS",MEXICO|Milenio TV
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/225
+#EXTINF:-1 tvg-id="TeleFrmula.mx" tvg-name="MEXICO|Teleformula" tvg-logo="" group-title="NOTICIAS",MEXICO|Teleformula
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/230
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CINEMA Y SERIES ",AXN
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/61
+#EXTINF:-1 tvg-id="" tvg-name="AMC ESP" tvg-logo="https://iptvsmartv.files.wordpress.com/2017/04/amc-logo.jpg" group-title="CINEMA Y SERIES ",AMC ESP
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/62
+#EXTINF:-1 tvg-id="" tvg-name="CANAL FOX" tvg-logo="https://cdn.mitvstatic.com/channels/a6911fcf-0430-4e30-9302-d6e022438559_m.jpg" group-title="CINEMA Y SERIES ",CANAL FOX
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/64
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINEMA Y SERIES ",DE PELICULA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/77
+#EXTINF:-1 tvg-id="" tvg-name="FOX CLASSIC" tvg-logo="https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/fox_classics.jpg" group-title="CINEMA Y SERIES ",FOX CLASSIC
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/85
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 ESP" tvg-logo="https://3.bp.blogspot.com/-FiqHDE-xwqE/XG6mUjmkTwI/AAAAAAAABNE/X71BLGB2RiA1fVld1wDLpNbjpnFYIt-QQCLcBGAs/s320/hbo2-live-stream.png" group-title="CINEMA Y SERIES ",HBO2 ESP
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/88
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES -Fight Time" tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-1.png" group-title="DEPORTES",DEPORTES -Fight Time
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/298
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | GOL TV" tvg-logo="https://cdn.mitvstatic.com/channels/6b340093-ac48-4be8-ac96-69d63ad09c26_m.jpg" group-title="DEPORTES",DEOORTES | GOL TV
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/376
+#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="https://mma.uno/wp-content/uploads/2016/02/UFC-LOGO.png" group-title="DEPORTES",UFC
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/461
+#EXTINF:-1 tvg-id="" tvg-name="|Fox Sports Sur 1" tvg-logo="https://cdn.vox-cdn.com/thumbor/fdqNtLvuLJkUeKPkIL1FfYZhEVM=/16x0:282x150/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/16672639/fox-sports-1-300x150.0.jpg" group-title="DEPORTES",|Fox Sports Sur 1
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/462
+#EXTINF:-1 tvg-id="" tvg-name="|Fox Sports Sur 2" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-2_m.png" group-title="DEPORTES",|Fox Sports Sur 2
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/463
+#EXTINF:-1 tvg-id="" tvg-name="|Fox Sports Sur 3" tvg-logo="https://i.pinimg.com/564x/5b/fc/32/5bfc3250c85721b1527ad4f6de192030.jpg" group-title="DEPORTES",|Fox Sports Sur 3
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/464
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES|BEIN  ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="DEPORTES",DEPORTES|BEIN  ESP
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/107
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO" tvg-logo="" group-title="MUNDO Y CULTURA",NATGEO
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/496
+#EXTINF:-1 tvg-id="" tvg-name="CHILE| 13C" tvg-logo="" group-title="POR PAISES ",CHILE| 13C
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1560
+#EXTINF:-1 tvg-id="" tvg-name="PR-WAPA" tvg-logo="http://jarvistv.net/wp-content/uploads/2018/02/Galaxy-TV.png" group-title="POR PAISES ",PR-WAPA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1985
+#EXTINF:-1 tvg-id="" tvg-name="CO: CARACOL HD" tvg-logo="" group-title="POR PAISES ",CO: CARACOL HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/537
+#EXTINF:-1 tvg-id="" tvg-name="ESP: ANTENA 3" tvg-logo="https://pbs.twimg.com/profile_images/1206928539750191105/L0iknTua_400x400.jpg" group-title="POR PAISES ",ESP: ANTENA 3
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1011
+#EXTINF:-1 tvg-id="" tvg-name="ESP: LA SEXTA ESPAÑA" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/BF23AB84-4B78-49FB-AA1F-ECD7EAF56EE5//720x540.jpg" group-title="POR PAISES ",ESP: LA SEXTA ESPAÑA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1012
+#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="CINEMA Y SERIES ",FOX COMEDY
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/84
+#EXTINF:-1 tvg-id="" tvg-name="FOX CINEMA" tvg-logo="https://i.pinimg.com/originals/f9/55/da/f955da50f5e90461617bc7b79ae39592.png" group-title="CINEMA Y SERIES ",FOX CINEMA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/86
+#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION" tvg-logo="https://3.bp.blogspot.com/-bcqf5qFKAHE/Vj_VvWcj21I/AAAAAAAAAgo/bx4X7qZrVl8/s320/foxaction.png" group-title="CINEMA Y SERIES ",FOX ACTION
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/87
+#EXTINF:-1 tvg-id="AZTECA CINEMA" tvg-name="AZTECA CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" group-title="CINEMA Y SERIES ",AZTECA CINEMA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/99
+#EXTINF:-1 tvg-id="" tvg-name="DE PELICULA PLUS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6b/De_Pel%C3%ADcula.svg.png" group-title="CINEMA Y SERIES ",DE PELICULA PLUS
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/97
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="CINEMA Y SERIES ",FOX LIFE
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/102
+#EXTINF:-1 tvg-id="CANAL 5" tvg-name="CANAL 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="MEXICO",CANAL 5
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/106
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES |AFICIONADOS" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png" group-title="DEPORTES",DEPORTES |AFICIONADOS
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/218
+#EXTINF:-1 tvg-id="AZTECA 7" tvg-name="MEXICO|AZTECA 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MEXICO",MEXICO|AZTECA 7 HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/219
+#EXTINF:-1 tvg-id="ADN40Internaluseonly.mx" tvg-name="MEXICO|ADN 40" tvg-logo="https://pbs.twimg.com/profile_images/1037358052553322496/wwU6hW0Z_400x400.jpg" group-title="NOTICIAS",MEXICO|ADN 40
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/221
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Los Simpson" tvg-logo="" group-title="24/7",24/7  Los Simpson
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/307
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Smallville" tvg-logo="" group-title="24/7",24/7 Smallville
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/308
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Stranger Things" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Stranger_Things_logo.png/250px-Stranger_Things_logo.png" group-title="24/7",24/7 Stranger Things
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/311
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones" tvg-logo="" group-title="24/7",24/7 Super Campeones
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/312
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas de terror" tvg-logo="https://f0.pngfuel.com/png/961/734/terror-logo-png-clip-art-thumbnail.png" group-title="24/7",24/7 Peliculas de terror
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/313
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Caillou" tvg-logo="" group-title="24/7",24/7  Caillou
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/318
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Coyote y el Correcaminos" tvg-logo="" group-title="24/7",24/7 El Coyote y el Correcaminos
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/319
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DESAFIO SOBRE FUEGO LATIN AMERICA" tvg-logo="" group-title="24/7",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/320
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Risa en Vacaciones" tvg-logo="" group-title="24/7",24/7 La Risa en Vacaciones
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/322
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La hora pico" tvg-logo="" group-title="24/7",24/7 La hora pico
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/327
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank México TEP 2" tvg-logo="https://i5.walmartimages.com/asr/75cba22d-b1c8-4886-8761-40e5b2d8585d_1.941540a9eabf1a88d3ff2322fd266eb2.jpeg" group-title="24/7",24/7 Shark Tank México TEP 2
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/329
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank México TEP 1" tvg-logo="" group-title="24/7",24/7 Shark Tank México TEP 1
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/330
+#EXTINF:-1 tvg-id="A&E ESP" tvg-name="A&E ESP" tvg-logo="https://webcapp.ccsu.edu/appFiles/list/2346/list_3529.jpg" group-title="CINEMA Y SERIES ",A&E ESP
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/63
+#EXTINF:-1 tvg-id="" tvg-name="FX ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="CINEMA Y SERIES ",FX ESP
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/66
+#EXTINF:-1 tvg-id="" tvg-name="SYFY ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1024px-Syfy.svg.png" group-title="CINEMA Y SERIES ",SYFY ESP
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/68
+#EXTINF:-1 tvg-id="" tvg-name="TRUTV ESP" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tru-tv_m.png" group-title="CINEMA Y SERIES ",TRUTV ESP
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/70
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINEMA Y SERIES ",WARNER CHANNEL
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/72
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX ESP" tvg-logo="https://pbs.twimg.com/profile_images/1157334251106381825/3O0jRDbV_400x400.jpg" group-title="CINEMA Y SERIES ",CINEMAX ESP
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/73
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://i1.sndcdn.com/artworks-000198115180-wj5dj4-t500x500.jpg" group-title="CINEMA Y SERIES ",CINECANAL
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/76
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN PREMIER 1" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINEMA Y SERIES ",GOLDEN PREMIER 1
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/78
+#EXTINF:-1 tvg-id="" tvg-name="FXM ESP" tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" group-title="CINEMA Y SERIES ",FXM ESP
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/80
+#EXTINF:-1 tvg-id="FOX SERIES PREMIUM" tvg-name="FOX SERIES PREMIUM" tvg-logo="https://image.tmdb.org/t/p/w300/drQKL4J2mjlXFdYkky4NT9jzsFO.png" group-title="CINEMA Y SERIES ",FOX SERIES PREMIUM
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/81
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://cdn.mitvstatic.com/channels/cl_space-hd_m.png" group-title="CINEMA Y SERIES ",SPACE
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/95
+#EXTINF:-1 tvg-id="" tvg-name="ESTRELLATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Estrella_TV_-_2009_Logo.png" group-title="ENTRETENIMIENTO",ESTRELLATV
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/105
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO|AZTECA UNO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logo-tv-azteca-png.jpg" group-title="MEXICO",MEXICO|AZTECA UNO SD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/220
+#EXTINF:-1 tvg-id="" tvg-name="24/7  The Walking Dead" tvg-logo="" group-title="24/7",24/7  The Walking Dead
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/315
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Barney y sus amigos" tvg-logo="" group-title="24/7",24/7 Barney y sus amigos
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/316
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="" group-title="24/7",24/7 BOB ESPONJA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/317
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa" tvg-logo="" group-title="24/7",24/7 La pantera rosa
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/325
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa PIG LA CERDITA" tvg-logo="" group-title="24/7",24/7 Peppa PIG LA CERDITA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/326
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Happy Tree Friends" tvg-logo="" group-title="24/7",24/7 Happy Tree Friends
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/321
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HÉROES EN PIJAMAS" tvg-logo="" group-title="24/7",24/7 HÉROES EN PIJAMAS
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/328
+#EXTINF:-1 tvg-id="" tvg-name="24/7 XMEN ANIME" tvg-logo="" group-title="24/7",24/7 XMEN ANIME
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/331
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Breaking Bad" tvg-logo="" group-title="24/7",24/7 Breaking Bad
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/332
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL ZODIACO" tvg-logo="" group-title="24/7",24/7 CABALLEROS DEL ZODIACO
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/333
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="" group-title="24/7",24/7 LA CASA DE PAPEL
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/334
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del 8" tvg-logo="" group-title="24/7",24/7 El Chavo del 8
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/335
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHEMA" tvg-logo="" group-title="24/7",24/7 EL CHEMA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/336
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El señor de los cielos" tvg-logo="" group-title="24/7",24/7 El señor de los cielos
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/337
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE Agallas, el perro cobarde" tvg-logo="" group-title="24/7",24/7  CORAJE Agallas, el perro cobarde
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/338
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI: Miami" tvg-logo="" group-title="24/7",24/7 CSI: Miami
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/339
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CUENTRO GREEM" tvg-logo="" group-title="24/7",24/7  CUENTRO GREEM
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/340
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="https://depor.com/resizer/SlAD1DRYgJl-aXvd4WC0PTcmaww=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/QUS2OXU3U5ASHF4BJ467NSDVAE.jpg" group-title="24/7",24/7 Dragon Ball Super
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/341
+#EXTINF:-1 tvg-id="" tvg-name="24/7 shera" tvg-logo="https://www.out.com/sites/out.com/files/2011/10/30/shera1.jpg" group-title="24/7",24/7 shera
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/343
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="" group-title="24/7",24/7  DINOSAURIOS 1991
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/344
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Dragon Ball 1984" tvg-logo="https://holatelcel.com/wp-content/uploads/2020/03/dragon-ball-2.jpg" group-title="24/7",24/7  Dragon Ball 1984
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/345
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT 1996" tvg-logo="https://i.ytimg.com/vi/oyCUMzZ3zxk/maxresdefault.jpg" group-title="24/7",24/7 Dragon Ball GT 1996
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/346
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z 1989" tvg-logo="" group-title="24/7",24/7 Dragon Ball Z 1989
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/347
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1200px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="24/7",24/7 EL CHAPULIN COLORADO
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/348
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Escobar: el patrón del mal" tvg-logo="" group-title="24/7",24/7 Escobar: el patrón del mal
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/349
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS; ESTRENOS 2018" tvg-logo="" group-title="24/7",24/7 PELICULAS; ESTRENOS 2018
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/350
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama 1999" tvg-logo="" group-title="24/7",24/7 Futurama 1999
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/351
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Juego de tronos" tvg-logo="" group-title="24/7",24/7 Juego de tronos
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/352
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA ROSA DE GUADALUPE" tvg-logo="" group-title="24/7",24/7 LA ROSA DE GUADALUPE
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/354
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los locos Addams" tvg-logo="" group-title="24/7",24/7 Los locos Addams
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/355
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia Monster 1964" tvg-logo="" group-title="24/7",24/7 La Familia Monster 1964
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/356
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Luis Miguel, la serie 2018" tvg-logo="" group-title="24/7",24/7 Luis Miguel, la serie 2018
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/357
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the middle 2000" tvg-logo="" group-title="24/7",24/7 Malcolm in the middle 2000
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/358
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los años maravillosos 1988" tvg-logo="" group-title="24/7",24/7 Los años maravillosos 1988
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/359
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mazinger Z" tvg-logo="https://i.pinimg.com/originals/6e/c9/b5/6ec9b5e39eee4c27125ecbf07d7633be.jpg" group-title="24/7",24/7 Mazinger Z
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/360
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto" tvg-logo="" group-title="24/7",24/7 Naruto
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/361
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro 1995" tvg-logo="" group-title="24/7",24/7 Pinky y Cerebro 1995
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/362
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokémon" tvg-logo="" group-title="24/7",24/7 Pokémon
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/363
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Macho HD" tvg-logo="" group-title="ULTRA USA",Ultra Macho HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/388
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Kids HD" tvg-logo="" group-title="ULTRA USA",Ultra Kids HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/390
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Film HD" tvg-logo="" group-title="ULTRA USA",Ultra Film HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/391
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Fiesta HD" tvg-logo="" group-title="ULTRA USA",Ultra Fiesta HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/392
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Luna HD" tvg-logo="" group-title="ULTRA USA",Ultra Luna HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/389
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Familia HD" tvg-logo="" group-title="ULTRA USA",Ultra Familia HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/393
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Docu HD" tvg-logo="" group-title="ULTRA USA",Ultra Docu HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/394
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Clasico HD" tvg-logo="" group-title="ULTRA USA",Ultra Clasico HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/395
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Cine HD" tvg-logo="" group-title="ULTRA USA",Ultra Cine HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/396
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | NICK 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="KIDS",NIÑOS | NICK 2
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/416
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | CARTOON NETWORK" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2013/01/cartoonnetwork061.jpg" group-title="KIDS",NIÑOS | CARTOON NETWORK
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/422
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | NICKTOONS" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjEwN2JlNjQtYWRjNi00OTVhLTg2MjktZGVlYjEwYzVmZGQzXkEyXkFqcGdeQXVyNzExMzc0MDg@._V1_.jpg" group-title="KIDS",NIÑOS | NICKTOONS
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/424
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | NATGEO KIDS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="KIDS",NIÑOS | NATGEO KIDS 
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/426
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | NICKELODEON" tvg-logo="https://wipy.tv/wp-content/uploads/2019/02/10-shows-de-nickelodeon-que-usted-tal-vez-ya-no-recuerda_34tm0n.jpg" group-title="KIDS",NIÑOS | NICKELODEON
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/427
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="KIDS",NICK JR
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/428
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS",NIÑOS | DISNEY CHANNEL
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/430
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | DISNEY XD" tvg-logo="https://i.blogs.es/6c756e/logo_disneyxd/450_1000.jpg" group-title="KIDS",NIÑOS | DISNEY XD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/431
+#EXTINF:-1 tvg-id="" tvg-name="ES | beIN SPORTS Ñ" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA.jpg" group-title="DEPORTES",ES | beIN SPORTS Ñ
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/459
+#EXTINF:-1 tvg-id="" tvg-name="NIÑOS | DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS",NIÑOS | DISCOVERY KIDS
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/432
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDF HD" tvg-logo="https://www.cdf.cl/__export/1571858655000/sites/cdfchile/arte/apps/twitter_summary_card.jpg" group-title="DEPORTES",CL | CDF HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/473
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDF Premium" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdf-premium_m.png" group-title="DEPORTES",CL | CDF Premium
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/474
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/1280px-H%26h_Logo.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY H&H
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/489
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY TURBO
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/491
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="MUNDO Y CULTURA",DISCOVERY WORLD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/492
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.png" group-title="MUNDO Y CULTURA",DISCOVERY THEATER
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/493
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="" group-title="MUNDO Y CULTURA",NATGEO WILD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/495
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="MUNDO Y CULTURA",INVESTIGATION DISCOVERY
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/498
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="MUNDO Y CULTURA",ANIMAL PLANET
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/499
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT" tvg-logo="" group-title="MUSICA",TELEHIT
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/531
+#EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSICS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1200px-VH1_Classic_UK.svg.png" group-title="MUSICA",VH1 CLASSICS
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/533
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="MUSICA",VH1
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/534
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS" tvg-logo="https://pbs.twimg.com/profile_images/1157806738021736448/ODAmOsLN_400x400.jpg" group-title="MUSICA",MTV HITS
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/539
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/673px-MTV-Logo.svg.png" group-title="MUSICA",MTV
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/540
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/546
+#EXTINF:-1 tvg-id="" tvg-name=" MAS CHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="ENTRETENIMIENTO", MAS CHIC
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/549
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | FOX SPORT 1 HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" group-title="DEPORTES",CHILE | FOX SPORT 1 HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/556
+#EXTINF:-1 tvg-id="" tvg-name="ECUADOR: GOL TV" tvg-logo="https://www.emelexista.com/wp-content/uploads/2017/10/GOL-TV-Y-ECUADOR.jpg" group-title="DEPORTES",ECUADOR: GOL TV
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/566
+#EXTINF:-1 tvg-id="" tvg-name="USA:nat_geo" tvg-logo="https://www.nationalgeographicla.com/images/logo.png" group-title="USA ",USA:nat_geo
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1010
+#EXTINF:-1 tvg-id="" tvg-name="PUERTO RICO: WIPR" tvg-logo="https://static-media.streema.com/media/cache/59/15/5915ee8efde86265466092f9cf3a0011.jpg" group-title="POR PAISES ",PUERTO RICO: WIPR
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1019
+#EXTINF:-1 tvg-id="" tvg-name="PERU: TV PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="POR PAISES ",PERU: TV PERU
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1020
+#EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV" tvg-logo="https://thepoint.com.mx/www/wp-content/uploads/2017/06/contenidos.png" group-title="MEXICO",IMAGEN TV
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1513
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="ENTRETENIMIENTO",TBS
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1529
+#EXTINF:-1 tvg-id="" tvg-name="TVC DEPORTES" tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2014/04/tvc.jpg" group-title="DEPORTES",TVC DEPORTES
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1531
+#EXTINF:-1 tvg-id="" tvg-name="baby tv" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="KIDS",baby tv
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1539
+#EXTINF:-1 tvg-id="" tvg-name="PR | Telemundo" tvg-logo="https://lirp-cdn.multiscreensite.com/ca98cc15/dms3rep/multi/opt/TELEMUNDO-PR-640w.jpg" group-title="POR PAISES ",PR | Telemundo
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1558
+#EXTINF:-1 tvg-id="" tvg-name="MEX| Canal De las Estrellas" tvg-logo="https://www.comteco.com.bo/img/upload/canales/las-estrellas.png" group-title="MEXICO",MEX| Canal De las Estrellas
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1563
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS +" tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg" group-title="DEPORTES",WIN SPORTS +
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/1645
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/841657248896151552/CFQkVWxP_400x400.jpg" group-title="DEPORTES",ES: MOVISTAR FORMULA 1 HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/3650
+#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS" tvg-logo="https://pbs.twimg.com/profile_images/455827866215649280/hBcnG2cR_400x400.jpeg" group-title="ENTRETENIMIENTO",TLNOVELAS
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/3963
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIE CHANNEL" tvg-logo="" group-title="CINEMA Y SERIES ",SONY MOVIE CHANNEL
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/4268
+#EXTINF:-1 tvg-id="" tvg-name="BEINS SPORT ING." tvg-logo="https://mms.businesswire.com/media/20180926006109/es/680910/23/beINSPORTS.jpg" group-title="DEPORTES",BEINS SPORT ING.
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/4276
+#EXTINF:-1 tvg-id="" tvg-name="WWWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1200px-WWE_Logo.svg.png" group-title="DEPORTES",WWWE
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/4306
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINEMA Y SERIES ",HBO XTREAM
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/4942
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS" tvg-logo="" group-title="POR PAISES ",RCN NOVELAS
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/5390
+#EXTINF:-1 tvg-id="" tvg-name="GALA TV" tvg-logo="" group-title="ENTRETENIMIENTO",GALA TV
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/5396
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="ENTRETENIMIENTO",HOLA TV
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/5401
+#EXTINF:-1 tvg-id="" tvg-name="DW Español" tvg-logo="" group-title="NOTICIAS",DW Español
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/5468
+#EXTINF:-1 tvg-id="" tvg-name="RCN INTERNACIONAL" tvg-logo="" group-title="POR PAISES ",RCN INTERNACIONAL
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/5469
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPA*" tvg-logo="" group-title="DEPORTES",BEIN SPA*
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/5572
+#EXTINF:-1 tvg-id="" tvg-name="RT NOTICIAS" tvg-logo="" group-title="NOTICIAS",RT NOTICIAS
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/5662
+#EXTINF:-1 tvg-id="" tvg-name="WARNEL CHANEL " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINEMA Y SERIES ",WARNEL CHANEL 
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/5699
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY*" tvg-logo="" group-title="CINEMA Y SERIES ",HBO FAMILY*
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/5721
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="CINEMA Y SERIES ",HBO SIGNATURE
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/5722
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="https://cdn.mitvstatic.com/channels/co_tnt-series_m.png" group-title="CINEMA Y SERIES ",TNT SERIES
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/5723
+#EXTINF:-1 tvg-id="" tvg-name="TNT*" tvg-logo="" group-title="USA ",TNT*
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8028
+#EXTINF:-1 tvg-id="" tvg-name="BITME" tvg-logo="" group-title="KIDS",BITME
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8064
+#EXTINF:-1 tvg-id="" tvg-name="HBO1" tvg-logo="" group-title="USA ",HBO1
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8029
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 USA" tvg-logo="" group-title="USA ",HBO 2 USA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8067
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE ENG" tvg-logo="" group-title="USA ",HBO SIGNATURE ENG
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8069
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY ENG" tvg-logo="" group-title="USA ",HBO FAMILY ENG
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8068
+#EXTINF:-1 tvg-id="" tvg-name="A&E USA" tvg-logo="" group-title="USA ",A&E USA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8071
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET ENG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="USA ",ANIMAL PLANET ENG
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8073
+#EXTINF:-1 tvg-id="" tvg-name="CBS NEW YORK" tvg-logo="" group-title="USA ",CBS NEW YORK
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8074
+#EXTINF:-1 tvg-id="" tvg-name="CNN USA" tvg-logo="" group-title="USA ",CNN USA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8075
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY ENG" tvg-logo="" group-title="USA ",HISTORY ENG
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8077
+#EXTINF:-1 tvg-id="" tvg-name="NBC NEW YORK" tvg-logo="" group-title="USA ",NBC NEW YORK
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8078
+#EXTINF:-1 tvg-id="" tvg-name="TLC USA" tvg-logo="" group-title="USA ",TLC USA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8079
+#EXTINF:-1 tvg-id="" tvg-name="MLB 2" tvg-logo="" group-title="USA ",MLB 2
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8081
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="USA ",ESPN 2
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8086
+#EXTINF:-1 tvg-id="" tvg-name="ESPN News" tvg-logo="" group-title="USA ",ESPN News
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8087
+#EXTINF:-1 tvg-id="" tvg-name="ESPN U" tvg-logo="" group-title="USA ",ESPN U
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8088
+#EXTINF:-1 tvg-id="" tvg-name="MMA" tvg-logo="" group-title="USA ",MMA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8089
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="" group-title="USA ",Red Bull TV
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8090
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel Plus" tvg-logo="" group-title="USA ",Tennis Channel Plus
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8092
+#EXTINF:-1 tvg-id="" tvg-name="Los Angeles: CBS News" tvg-logo="" group-title="USA ",Los Angeles: CBS News
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8093
+#EXTINF:-1 tvg-id="" tvg-name="AMG " tvg-logo="" group-title="USA ",AMG 
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8094
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 51" tvg-logo="https://pbs.twimg.com/profile_images/770996446913069056/T4wPuZ4v.jpg" group-title="ENTRETENIMIENTO",TELEMUNDO 51
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8096
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="" group-title="USA ",Tennis Channel
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8091
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="MUNDO Y CULTURA",H2
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8097
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 47 NEW YORK" tvg-logo="https://image.roku.com/developer_channels/prod/771fec155bc243822181318ece4982d2d98c76e9e4215df88665d826ebf07546.png" group-title="ENTRETENIMIENTO",TELEMUNDO 47 NEW YORK
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8098
+#EXTINF:-1 tvg-id="" tvg-name="MULTIPREMIER" tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" group-title="CINEMA Y SERIES ",MULTIPREMIER
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8100
+#EXTINF:-1 tvg-id="" tvg-name="CINE LATINO" tvg-logo="https://cdn.shortpixel.ai/client/q_lossless,ret_img,w_200/http://televisiongratisenvivo.com/wp-content/uploads/2018/09/CINELATINO-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" group-title="CINEMA Y SERIES ",CINE LATINO
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8101
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CINEMA Y SERIES ",HBO POP
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8102
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death note" tvg-logo="" group-title="24/7",24/7 Death note
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8105
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LE TEMES ALA OSCURIDAD" tvg-logo="" group-title="24/7",24/7 LE TEMES ALA OSCURIDAD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8107
+#EXTINF:-1 tvg-id="" tvg-name="HBO " tvg-logo="https://assets.tonica.la/__export/1585969496601/sites/debate/img/2020/04/03/hbo-contenido-gratis_1.jpeg_1359985867.jpeg" group-title="CINEMA Y SERIES ",HBO 
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8117
+#EXTINF:-1 tvg-id="" tvg-name="YES NETWORK" tvg-logo="https://thestreamable.com/media/pages/news/yankees-may-partner-with-amazon-and-sinclair-to-buy-yes-network/4008341347-1583185843/2018-12-28-at-8.42-am.png" group-title="USA ",YES NETWORK
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8118
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CHILEVISION " tvg-logo="https://pbs.twimg.com/profile_images/1228424689229484034/MO9dYByX_400x400.jpg" group-title="POR PAISES ",CHILE | CHILEVISION 
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/8513
+#EXTINF:-1 tvg-id="" tvg-name="PE | Gol Peru HD" tvg-logo="" group-title="DEPORTES",PE | Gol Peru HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/9550
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO BOSTON" tvg-logo="https://media.telemundoboston.com/2019/09/Promo-Noticiero-TLMD-Boston.png" group-title="ENTRETENIMIENTO",TELEMUNDO BOSTON
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/11024
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 1080" tvg-logo="" group-title="MEXICO",CANAL 5 1080
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/11063
+#EXTINF:-1 tvg-id="" tvg-name="Estrellas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEXICO",Estrellas HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/11061
+#EXTINF:-1 tvg-id="" tvg-name="CANAL FOX 1080 HD" tvg-logo="" group-title="CANALES LATINOS  HD",CANAL FOX 1080 HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/11062
+#EXTINF:-1 tvg-id="" tvg-name="TELEAMAZONAS" tvg-logo="" group-title="POR PAISES ",TELEAMAZONAS
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/11744
+#EXTINF:-1 tvg-id="" tvg-name="ECU: OROMAR TV" tvg-logo="" group-title="POR PAISES ",ECU: OROMAR TV
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/11749
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="https://hrexach.files.wordpress.com/2014/09/can10.png" group-title="24/7",24/7 CANTINFLAS
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/11784
+#EXTINF:-1 tvg-id="" tvg-name="The Last Full Measure (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKv4A3zlqmlVacu8dbKNk9Twz7h.jpg" group-title="PELICULAS 2020",The Last Full Measure (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Keepers: El misterio del faro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXSiEbWSk7RqZQtwobZNTZKp8IH.jpg" group-title="ESPAÑOL ESPAÑA",Keepers: El misterio del faro (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA Originals (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cjl4mLSs7AJQerF2Gvgjdza8Mb.jpg" group-title="PELICULAS 2020",LA Originals (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La sombra del gallo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxtvrY1OlFuqoyUPArRBV73Oafd.jpg" group-title="PELICULAS 2020",La sombra del gallo (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 en la sombra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49z88ri8gToqfVodW3GYQJCDmPx.jpg" group-title="PELICULAS  2019",6 en la sombra (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bullet Head: Trampa mortal (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vg4GHN5YZ4eKCtaZIoFYRb1lR2.jpg" group-title="PELICULAS 2017",Bullet Head: Trampa mortal (2017)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Escuadrón del Diablo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvs2ZLlqzF0wyzC8pZBDCSfrDBV.jpg" group-title="PELICULAS 2018",El Escuadrón del Diablo (2018)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kursk (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BTajOVHKlKZzNge6prHv8hRqI7.jpg" group-title="PELICULAS 2018",Kursk (2018)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La gran apuesta (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlnmADqBz67N9JwhgDwGWS3Ni9d.jpg" group-title="VARIAS",La gran apuesta (2015)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Playa paraíso (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zf41p0OlPVKFzPLe3RJs8m7gR5l.jpg" group-title="PELICULAS  2019",Playa paraíso (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inside Man: Most Wanted (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxvxcgRHwV7T3PR4jNFDdQTLPm.jpg" group-title="PELICULAS  2019",Inside Man: Most Wanted (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Dama y el Vagabundo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujgFJJu9t4Wx9O573X43eyqWhvC.jpg" group-title="PELICULAS  2019",La Dama y el Vagabundo (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lluvia de albóndigas 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLnAUHnQXacLZs1PJnkq0ns0u2y.jpg" group-title="KIDS*",Lluvia de albóndigas 2 (2013)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¡Rompe Ralph! (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTpE4JQ2C09NicqvDhwi70IRz62.jpg" group-title="KIDS*",¡Rompe Ralph! (2012)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WALL·E (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLXLNDsOBZxpNleWF9Z4hubxBUQ.jpg" group-title="KIDS*",WALL·E (2008)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marianne y la pócima del amor (Strange Magic) (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjCdrK8gGRFnyuZb1j9BzgN2RaY.jpg" group-title="KIDS*",Marianne y la pócima del amor (Strange Magic) (2015)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Metegol (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aa08r4t2u1esemG2sP7K5rcqJYF.jpg" group-title="KIDS*",Metegol (2013)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/11802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 13 ARGENTINA" tvg-logo="" group-title="POR PAISES ",CANAL 13 ARGENTINA
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13053
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 9 ARGENTINA " tvg-logo="" group-title="POR PAISES ",CANAL 9 ARGENTINA 
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13054
+#EXTINF:-1 tvg-id="" tvg-name="kebuena-MEXICO" tvg-logo="http://iptvactivador.online:25461/images/5cf5bc1223ae481161c36db2058179b3.png" group-title="MEXICO",kebuena-MEXICO
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13401
+#EXTINF:-1 tvg-id="" tvg-name="Extremo Grupero (Cintalapa)" tvg-logo="http://iptvactivador.online:25461/images/3cacb8358c97a9ee18884c1421a855ab.png" group-title="MEXICO",Extremo Grupero (Cintalapa)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13402
+#EXTINF:-1 tvg-id="" tvg-name="RD-ACENTO" tvg-logo="" group-title="REPUBLICA DOMINICANA",RD-ACENTO
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13418
+#EXTINF:-1 tvg-id="" tvg-name="Color Vision 9" tvg-logo="" group-title="REPUBLICA DOMINICANA",Color Vision 9
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13421
+#EXTINF:-1 tvg-id="" tvg-name="Telesistema 11" tvg-logo="" group-title="REPUBLICA DOMINICANA",Telesistema 11
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13422
+#EXTINF:-1 tvg-id="" tvg-name="Teleantillas (RD)" tvg-logo="https://4.bp.blogspot.com/-xbm_Y9ihbLM/XZLZvVasegI/AAAAAAAAoMk/Rh5L_dQjKAYOe2N4pRN2AkQbxaansLtgACLcBGAsYHQ/s200/logoTeleantillas122x90.webp" group-title="REPUBLICA DOMINICANA",Teleantillas (RD)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13423
+#EXTINF:-1 tvg-id="" tvg-name="Digital15(RD)" tvg-logo="http://iptvactivador.online:25461/images/ab555f173d673ef6e3ca9be5f8ffb2b4.png" group-title="REPUBLICA DOMINICANA",Digital15(RD)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13424
+#EXTINF:-1 tvg-id="" tvg-name="RNN (RD)" tvg-logo="http://iptvactivador.online:25461/images/168769edf658b49e92b35bed3d58bddb.png" group-title="REPUBLICA DOMINICANA",RNN (RD)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13425
+#EXTINF:-1 tvg-id="" tvg-name="CDN37  (RD)" tvg-logo="https://www.arecoa.com/wp-content/uploads/2019/08/9aa23ad9-logo-nuevo-cdn.png" group-title="REPUBLICA DOMINICANA",CDN37  (RD)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13426
+#EXTINF:-1 tvg-id="" tvg-name="CDN Deportes (RD)" tvg-logo="http://iptvactivador.online:25461/images/4d2a88e8fb658af6972bc2a83c7eed5f.png" group-title="REPUBLICA DOMINICANA",CDN Deportes (RD)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13427
+#EXTINF:-1 tvg-id="" tvg-name="Telemilenio (RD)" tvg-logo="http://iptvactivador.online:25461/images/66eb0980761bd06dade705858b65e7bb.png" group-title="REPUBLICA DOMINICANA",Telemilenio (RD)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13428
+#EXTINF:-1 tvg-id="" tvg-name="TVO Canal 23 (Opt-1)" tvg-logo="" group-title="EL SALVADOR",TVO Canal 23 (Opt-1)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13429
+#EXTINF:-1 tvg-id="" tvg-name="TVX (El Salvador)" tvg-logo="http://iptvactivador.online:25461/images/b3e93fe6781320a28b5cd57f332b6a4c.png" group-title="EL SALVADOR",TVX (El Salvador)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13431
+#EXTINF:-1 tvg-id="" tvg-name="TribunaTV (San Salvador)" tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/TRIBUNA-TV-253x194.jpg" group-title="EL SALVADOR",TribunaTV (San Salvador)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13438
+#EXTINF:-1 tvg-id="" tvg-name="ElimTV (San Salvador)" tvg-logo="http://iptvactivador.online:25461/images/0cf4507b3e1680f05218c97d33e47e94.png" group-title="EL SALVADOR",ElimTV (San Salvador)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13439
+#EXTINF:-1 tvg-id="" tvg-name="Taber TV (El Salvador)" tvg-logo="http://iptvactivador.online:25461/images/e61384f76d24e82c694519c6a0447f2f.jpg" group-title="EL SALVADOR",Taber TV (El Salvador)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13440
+#EXTINF:-1 tvg-id="" tvg-name="Cinevision19 (RD)" tvg-logo="http://iptvactivador.online:25461/images/eacd428b0e47580a3782781079ce6bf4.jpg" group-title="REPUBLICA DOMINICANA",Cinevision19 (RD)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13436
+#EXTINF:-1 tvg-id="" tvg-name="Teleunion (RD)" tvg-logo="http://iptvactivador.online:25461/images/f234014083959aac91ce548dcfbec0f1.png" group-title="REPUBLICA DOMINICANA",Teleunion (RD)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13435
+#EXTINF:-1 tvg-id="" tvg-name="Telemicro (RD)" tvg-logo="http://iptvactivador.online:25461/images/18e6124c727949b6f4178ef43e0032e8.png" group-title="REPUBLICA DOMINICANA",Telemicro (RD)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13434
+#EXTINF:-1 tvg-id="" tvg-name="Antena7(RD)" tvg-logo="http://iptvactivador.online:25461/images/be46ec6a1226d2cf51d612aa652f1042.png" group-title="REPUBLICA DOMINICANA",Antena7(RD)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13433
+#EXTINF:-1 tvg-id="" tvg-name="Telecentro (RD)" tvg-logo="https://3.bp.blogspot.com/-SlOZUGyCaMM/Xqim58ynrTI/AAAAAAAAulg/8h4X2KXO9dQg1AmRU6JQ7uOE8jYLQ3pcgCLcBGAsYHQ/s200/Telecentro.png" group-title="REPUBLICA DOMINICANA",Telecentro (RD)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/13432
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo (M)(1080)" tvg-logo="" group-title="CANALES LATINOS  HD",NatGeo (M)(1080)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/15908
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild (e)(1080)" tvg-logo="" group-title="CANALES LATINOS  HD",NatGeo Wild (e)(1080)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/15909
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES HD" tvg-logo="" group-title="ESPAÑA",ES: MOVISTAR SERIES HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/15930
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIESMANIA HD" tvg-logo="" group-title="ESPAÑA",ES: MOVISTAR SERIESMANIA HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/15931
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX HD" tvg-logo="" group-title="ESPAÑA",ES: FOX HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/15932
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN HD" tvg-logo="" group-title="ESPAÑA",ES: AXN HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/15933
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT FHD" tvg-logo="" group-title="ESPAÑA",ES: TNT FHD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/15934
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="" group-title="ESPAÑA",ES: COMEDY CENTRAL FHD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/15935
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 HD" tvg-logo="" group-title="ESPAÑA",ES: CALLE 13 HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/15936
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO HD" tvg-logo="" group-title="ESPAÑA",ES: COSMO HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/15949
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE HD" tvg-logo="" group-title="ESPAÑA",ES: AXN WHITE HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/15951
+#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY HD" tvg-logo="" group-title="ESPAÑA",ES: SYFY HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/15952
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF HD" tvg-logo="" group-title="ESPAÑA",ES: FDF HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/15953
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEOX HD" tvg-logo="" group-title="ESPAÑA",ES: NEOX HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/15954
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENERGY HD" tvg-logo="" group-title="ESPAÑA",ES: ENERGY HD
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/15956
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once Nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Antiguo_logo_de_Canal_Once_%28Once_TV%29.png" group-title="MEXICO",Canal Once Nacional
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/11128
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once Internacional" tvg-logo="https://canalonce.mx/generales/wp-content/uploads/2019/04/logo_sobre_canal_once.png" group-title="MEXICO",Canal Once Internacional
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/11129
+#EXTINF:-1 tvg-id="" tvg-name="promcion zu" tvg-logo="" group-title="24/7",promcion zu
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/11803
+#EXTINF:-1 tvg-id="" tvg-name="Adú (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="PELICULAS 2020",Adú (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="YA NO ESTOY AQUI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",YA NO ESTOY AQUI
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LOS TORTOLITOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LOS TORTOLITOS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UNA NOCHE LARGA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",UNA NOCHE LARGA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL ROBO DEL SIGLO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EL ROBO DEL SIGLO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BILLBOARD MUSIC AWARDS 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",BILLBOARD MUSIC AWARDS 2018
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA VIDA ES BELLA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LA VIDA ES BELLA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TE QUIERO, IMBéCIL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",TE QUIERO, IMBéCIL
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PRIMAL: TALES OF SAVAGERY" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",PRIMAL: TALES OF SAVAGERY
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PARKING" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",PARKING
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA RUSA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LA RUSA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LUCHA DE CLASES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LUCHA DE CLASES
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JESUS: OBRA TEATRO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",JESUS: OBRA TEATRO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CERCA DEL HORIZONTE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",CERCA DEL HORIZONTE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DOWNHILL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",DOWNHILL
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ISLA DE LAS MENTIRAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LA ISLA DE LAS MENTIRAS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AHORA O NUNCA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",AHORA O NUNCA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARY POPPINS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",MARY POPPINS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CHICAGO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",CHICAGO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HANNAH MONTANA: THE MOVIE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",HANNAH MONTANA: THE MOVIE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DíA DE LLUVIA EN NUEVA YORK" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",DíA DE LLUVIA EN NUEVA YORK
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MAR ABIERTO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",MAR ABIERTO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="REBELIóN DE LOS GODíNEZ" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",REBELIóN DE LOS GODíNEZ
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MUJERES ARRIBA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",MUJERES ARRIBA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CIUDAD EN TINIEBLAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",CIUDAD EN TINIEBLAS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA INOCENCIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LA INOCENCIA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15982.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ROMPIENDO LAS REGLAS 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",ROMPIENDO LAS REGLAS 2
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL CAMINO A EL DORADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EL CAMINO A EL DORADO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15984.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CON GANAS DE TRIUNFAR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",CON GANAS DE TRIUNFAR
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 FANTASMAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",13 FANTASMAS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SCOOB!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",SCOOB!
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA OTRA MISSY" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LA OTRA MISSY
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RICKY RICóN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",RICKY RICóN
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CHICA DEL VALLE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LA CHICA DEL VALLE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UN CRACK" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",UN CRACK
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THERE'S SOMETHING IN THE WATER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",THERE'S SOMETHING IN THE WATER
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE VILLAGERS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",THE VILLAGERS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE LEGION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",THE LEGION
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE GHOST AND THE TOUT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",THE GHOST AND THE TOUT
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TIME TRAP" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",TIME TRAP
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="STARDOG AND TURBOCAT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",STARDOG AND TURBOCAT
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SPYCIES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",SPYCIES
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sí, MI AMOR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",Sí, MI AMOR
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/15999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RAOUL TABURIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",RAOUL TABURIN
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RENCOR TATUADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",RENCOR TATUADO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NATALIE WOOD: WHAT REMAINS BEHIND" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",NATALIE WOOD: WHAT REMAINS BEHIND
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BUEN VIAJE: AVENTURAS PSICODéLICAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",BUEN VIAJE: AVENTURAS PSICODéLICAS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FURIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",FURIA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DEVOTO, LA INVASIóN SILENCIOSA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",DEVOTO, LA INVASIóN SILENCIOSA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CAPONE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",CAPONE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AWOKEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",AWOKEN
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ARKANSAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",ARKANSAS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ANDRéS INIESTA: EL HéROE INESPERADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",ANDRéS INIESTA: EL HéROE INESPERADO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",ADAM
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="18 REGALOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",18 REGALOS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOS PICAPIEDRA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LOS PICAPIEDRA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNA GUERRA BRILLANTE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",UNA GUERRA BRILLANTE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RAMMSTEIN: PARIS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",RAMMSTEIN: PARIS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="VANILLA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",VANILLA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE LODGE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",THE LODGE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE BALKAN LINE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",THE BALKAN LINE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RAISING BUCHANAN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",RAISING BUCHANAN
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MENTIRAS PELIGROSAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",MENTIRAS PELIGROSAS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BLOOD QUANTUM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",BLOOD QUANTUM
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A PERFECT PLAN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",A PERFECT PLAN
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL LLAMADO SALVAJE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EL LLAMADO SALVAJE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE LIZZIE MCGUIRE MOVIE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",THE LIZZIE MCGUIRE MOVIE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CORAZONES Y ALMAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",CORAZONES Y ALMAS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="INSIDIOUS: LA úLTIMA LLAVE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",INSIDIOUS: LA úLTIMA LLAVE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL LEñADOR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EL LEñADOR
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CONQUISTA A MEDIAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",CONQUISTA A MEDIAS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LEGO DC SHAZAM! - MAGIA Y MONSTRUOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LEGO DC SHAZAM! - MAGIA Y MONSTRUOS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="JUSTICE LEAGUE DARK: APOKOLIPS WAR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",JUSTICE LEAGUE DARK: APOKOLIPS WAR
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN FULL BLOOM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",IN FULL BLOOM
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL ATRAPASUEñOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EL ATRAPASUEñOS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DINO KING: JOURNEY TO FIRE MOUNTAIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",DINO KING: JOURNEY TO FIRE MOUNTAIN
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BECOMING: MICHELLE OBAMA'S" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",BECOMING: MICHELLE OBAMA'S
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TODO EL DíA Y UNA NOCHE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",TODO EL DíA Y UNA NOCHE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TRAFFIC" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",TRAFFIC
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="VECINOS CERCANOS DEL 3ER TIPO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",VECINOS CERCANOS DEL 3ER TIPO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA MUJER EXPLOSIVA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LA MUJER EXPLOSIVA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="YOUNGBLOOD (FORJA DE CAMPEóN)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",YOUNGBLOOD (FORJA DE CAMPEóN)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TOP GUN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",TOP GUN
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA NOCHE DEL ESPANTO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LA NOCHE DEL ESPANTO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DíAS DE TRUENO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",DíAS DE TRUENO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AULLIDOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",AULLIDOS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DEAD END: ATAJO AL INFIERNO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",DEAD END: ATAJO AL INFIERNO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA RED AVISPA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LA RED AVISPA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL BALóN DE ORO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EL BALóN DE ORO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ATORMENTADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",ATORMENTADO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TIEMPO DE CAZA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",TIEMPO DE CAZA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA VERDAD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LA VERDAD
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PUñOS MORTALES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",PUñOS MORTALES
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ORIGINALS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LA ORIGINALS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JUDY & PUNCH" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",JUDY & PUNCH
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JARHEAD: LAW OF RETURN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",JARHEAD: LAW OF RETURN
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HAPPINESS CONTINUES: A JONAS BROTHERS CONCERT FILM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",HAPPINESS CONTINUES: A JONAS BROTHERS CONCERT FILM
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FAITH, HOPE & LOVE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",FAITH, HOPE & LOVE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FINDING GRACE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",FINDING GRACE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BAD EDUCATION" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",BAD EDUCATION
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CIUDADANO X" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",CIUDADANO X
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEASTIE BOYS STORY" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",BEASTIE BOYS STORY
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EMA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE PHOTOGRAPH" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",THE PHOTOGRAPH
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BRITNEY SPEARS LIVE: THE FEMME FATALE TOUR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",BRITNEY SPEARS LIVE: THE FEMME FATALE TOUR
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EUROPE: THE FINAL COUNTDOWN 30TH ANNIVERSARY SHOW - LIVE AT THE ROUNDHOUSE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EUROPE: THE FINAL COUNTDOWN 30TH ANNIVERSARY SHOW - LIVE AT THE ROUNDHOUSE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PARANORMAL ACTIVITY: DIMENSIóN FANTASMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",PARANORMAL ACTIVITY: DIMENSIóN FANTASMA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GRETEL Y HANSEL: UN OSCURO CUENTO DE HADAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",GRETEL Y HANSEL: UN OSCURO CUENTO DE HADAS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EXTRACTION: MISIóN DE RESCATE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EXTRACTION: MISIóN DE RESCATE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EXTRACTION: MISIóN DE RESCATE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EXTRACTION: MISIóN DE RESCATE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ENEMIGO PúBLICO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",ENEMIGO PúBLICO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UNLOVABLE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",UNLOVABLE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOS HERMANOS WILLOUGHBY" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LOS HERMANOS WILLOUGHBY
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE QUARRY" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",THE QUARRY
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE SECOND COMING OF CHRIST" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",THE SECOND COMING OF CHRIST
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE DRIVER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",THE DRIVER
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SHAKIRA EN CONCIERTO: EL DORADO WORLD TOUR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",SHAKIRA EN CONCIERTO: EL DORADO WORLD TOUR
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SERGIO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",SERGIO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SCARE ME" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",SCARE ME
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PROXIMA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",PROXIMA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SELAH AND THE SPADES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",SELAH AND THE SPADES
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PEDRO INFANTE: EL GAVILáN POLLERO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",PEDRO INFANTE: EL GAVILáN POLLERO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MACARIO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",MACARIO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NI HéROE NI TRAIDOR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",NI HéROE NI TRAIDOR
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LAS BUENAS INTENCIONES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LAS BUENAS INTENCIONES
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA TERRE ET LE SANG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LA TERRE ET LE SANG
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA SOMBRA DEL GALLO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LA SOMBRA DEL GALLO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOS HIPóCRITAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LOS HIPóCRITAS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESTAMOS AQUí: NOTAS PARA VIVIR EN EL PLANETA TIERRA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",ESTAMOS AQUí: NOTAS PARA VIVIR EN EL PLANETA TIERRA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CUERDAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",CUERDAS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CIRCUS OF BOOKS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",CIRCUS OF BOOKS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IMPRACTICAL JOKERS: THE MOVIE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",IMPRACTICAL JOKERS: THE MOVIE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESTABA EN CASA, PERO..." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",ESTABA EN CASA, PERO...
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL FARO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EL FARO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WENDY" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",WENDY
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LEGADO EN LOS HUESOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LEGADO EN LOS HUESOS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TAN CERCA, TAN LEJOS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",TAN CERCA, TAN LEJOS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL REFLEJO DE SIBYL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EL REFLEJO DE SIBYL
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SHE NEVER DIED" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",SHE NEVER DIED
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PENANCE LANE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",PENANCE LANE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ROMPIENDO LAS NORMAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",ROMPIENDO LAS NORMAS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DOPPEL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",DOPPEL
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BEHIND YOU" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",BEHIND YOU
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BECOMING" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",BECOMING
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CUESTIóN DE JUSTICIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",CUESTIóN DE JUSTICIA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ESPíRITUS DEL MAR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",ESPíRITUS DEL MAR
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL SILENCIO DEL PANTANO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EL SILENCIO DEL PANTANO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BINGO EL REY DE LAS MAñANAS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",BINGO EL REY DE LAS MAñANAS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UNA MADRE PROBLEMáTICA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",UNA MADRE PROBLEMáTICA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL DESPERTAR DEL DIABLO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EL DESPERTAR DEL DIABLO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL DESPERTAR DEL DIABLO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EL DESPERTAR DEL DIABLO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL DíA DE LA BODA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EL DíA DE LA BODA
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SR. Y SRA. SMITH" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",SR. Y SRA. SMITH
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE CHEETAH GIRLS 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",THE CHEETAH GIRLS 2
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LíMITE VERTICAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",LíMITE VERTICAL
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ARRáSTRAME AL INFIERNO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",ARRáSTRAME AL INFIERNO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="INFECCIóN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",INFECCIóN
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ENEMIGO PúBLICO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",ENEMIGO PúBLICO
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="FANTASY ISLAND" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",FANTASY ISLAND
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MORTAL KOMBAT LEGENDS: SCORPION?S REVENGE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",MORTAL KOMBAT LEGENDS: SCORPION?S REVENGE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WE SUMMON THE DARKNESS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",WE SUMMON THE DARKNESS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE WAVE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",THE WAVE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SOUND AND FURY" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",SOUND AND FURY
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SHOOTING HEROIN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",SHOOTING HEROIN
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEA FEVER" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",SEA FEVER
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PIRANHAS: LA PARANZA DEI BAMBINI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",PIRANHAS: LA PARANZA DEI BAMBINI
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN THE TRAP" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",IN THE TRAP
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GOLD DUST" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",GOLD DUST
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EAT BRAINS LOVE" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",EAT BRAINS LOVE
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DEAD BY DAWN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EBIHSIefpgl6LGq973NizW5k9x.jpg" group-title="ULTIMAS agregadas*",DEAD BY DAWN
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blue Story (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUggWBMN8xUNVasYsroyUUPmaKa.jpg" group-title="ULTIMAS agregadas*",Blue Story (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquaslash (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vb3ux1clny29nY9CtGnIbTrliHN.jpg" group-title="ULTIMAS agregadas*",Aquaslash (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Fittest (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cK5lwr7oKysqlxiwfiWWytLW07.jpg" group-title="ULTIMAS agregadas*",The Fittest (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casablanca (1942)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg" group-title="ULTIMAS agregadas*",Casablanca (1942)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reign of Fire (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZVXCj3jXzIPJUHLaQohzt2uTM3.jpg" group-title="ULTIMAS agregadas*",Reign of Fire (2002)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Where's My Roy Cohn? (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLLsinqf2a6dC7HcYPY3oiL9s1N.jpg" group-title="ULTIMAS agregadas*",Where's My Roy Cohn? (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Whistlers (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9UIjhnD5QNyhXrA0nZMhRpod5b.jpg" group-title="ULTIMAS agregadas*",The Whistlers (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Scheme (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PJhAbkBMCSplr0CTtgc4MlhJxk.jpg" group-title="ULTIMAS agregadas*",The Scheme (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sound of Silence (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXkv8lkX9gdJyUxxrulJ2PWzidI.jpg" group-title="ULTIMAS agregadas*",The Sound of Silence (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Huntress: Rune of the Dead (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiQcXvOgw9HjlaEufrNEG7amK15.jpg" group-title="ULTIMAS agregadas*",The Huntress: Rune of the Dead (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Main Event (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzg5AEEu1T7nFOCq4gKbGBObhdk.jpg" group-title="ULTIMAS agregadas*",The Main Event (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Crossroads of Hunter Wilde (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykwUc1b7bkKcpxT7MTxrv5s4JOv.jpg" group-title="ULTIMAS agregadas*",The Crossroads of Hunter Wilde (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Iron Mask (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GAeK18hkfR6rzlo1vITvQhoEiW.jpg" group-title="ULTIMAS agregadas*",The Iron Mask (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Other Lamb (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ognWoVeoB6IhrPAFxTe7PUifYXU.jpg" group-title="ULTIMAS agregadas*",The Other Lamb (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seberg (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kv78WJ2YvWyk3c32sbOGFh64xcs.jpg" group-title="ULTIMAS agregadas*",Seberg (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rómulo y Julita (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAKrdfRHYwL4I2qIE1oBKhtNDi1.jpg" group-title="ULTIMAS agregadas*",Rómulo y Julita (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Longest Night (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0MP9swm7E4C9owBJvHl7NNeKFn.jpg" group-title="ULTIMAS agregadas*",The Longest Night (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Junglee (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Jwof1qQ6U99TZFkBCngBdfW8J2.jpg" group-title="ULTIMAS agregadas*",Junglee (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="David Crosby: Remember My Name (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63QoMefX0XfIElSHVfFMXYaGNPK.jpg" group-title="ULTIMAS agregadas*",David Crosby: Remember My Name (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bull (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63QoMefX0XfIElSHVfFMXYaGNPK.jpg" group-title="ULTIMAS agregadas*",Bull (2008)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chapo: El Escape Del Siglo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khAED7ox0Dfk4Ef5LAf6jPEe4oy.jpg" group-title="ULTIMAS agregadas*",Chapo: El Escape Del Siglo (2016)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trolls World Tour (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg" group-title="ULTIMAS agregadas*",Trolls World Tour (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sonic the Hedgehog (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg" group-title="ULTIMAS agregadas*",Sonic the Hedgehog (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The League Of Five (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oG8ZMvXbR595Y21YCeUwbcori73.jpg" group-title="ULTIMAS agregadas*",The League Of Five (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jesus (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFC4cY9lBsZXTjrqvKrwqusXaa7.jpg" group-title="ULTIMAS agregadas*",Jesus (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="40: The Temptation of Christ (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9YHnF1lRPZC8pR4AyFLrtqg4JD.jpg" group-title="ULTIMAS agregadas*",40: The Temptation of Christ (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Garabandal: Only God Knows (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOwXKJqn8mf2wIw42CwH43hRAcI.jpg" group-title="ULTIMAS agregadas*",Garabandal: Only God Knows (2018)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alicia en el país de las maravillas (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOwXKJqn8mf2wIw42CwH43hRAcI.jpg" group-title="ULTIMAS agregadas*",Alicia en el país de las maravillas (1976)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Wizard of Lies (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8k4lJ4e0hvDQtKpItXmmPdw69sO.jpg" group-title="ULTIMAS agregadas*",The Wizard of Lies (2017)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Body (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eV6h3m3sWQlAlP760sAERWQ7KTI.jpg" group-title="ULTIMAS agregadas*",The Body (2012)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maid in Manhattan (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHEcOywXINtdwF5LLtL2KuyCQY9.jpg" group-title="ULTIMAS agregadas*",Maid in Manhattan (2002)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Little Princess (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bK5wt5eHeWTGHsrEpahRG6HFI6.jpg" group-title="ULTIMAS agregadas*",A Little Princess (1995)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="False Pretenses (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnsabuJVA8FBMyEyFAzMlDRM7Xd.jpg" group-title="ULTIMAS agregadas*",False Pretenses (2004)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bordertown (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0AR36VzvB5ileCoMfSlV9bFsVn.jpg" group-title="ULTIMAS agregadas*",Bordertown (2007)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trolls World Tour (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg" group-title="ULTIMAS agregadas*",Trolls World Tour (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man 4: The Finale (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5cz6BoyHrgBnhfDHOW5hXRWbln.jpg" group-title="ULTIMAS agregadas*",Ip Man 4: The Finale (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gretel & Hansel (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBBBXseq4k4dI63k06XIrsc02j8.jpg" group-title="ULTIMAS agregadas*",Gretel & Hansel (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Turning (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiMHiHp9eAjJty8rddoUnL9G5fU.jpg" group-title="ULTIMAS agregadas*",The Turning (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juego de espías (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvFofah0sQLdDuQUEN83F9Kj1lY.jpg" group-title="ULTIMAS agregadas*",Juego de espías (2013)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Rhythm Section (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spTr0VYyRtl36Lkk6nCnnbFXhus.jpg" group-title="ULTIMAS agregadas*",The Rhythm Section (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Like a Boss (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifn7yLH7W69MdrEEkNzCyO8rTmL.jpg" group-title="ULTIMAS agregadas*",Like a Boss (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE BOY II: LA MALDICIóN DE BRAHMS" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifn7yLH7W69MdrEEkNzCyO8rTmL.jpg" group-title="ULTIMAS agregadas*",THE BOY II: LA MALDICIóN DE BRAHMS
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Amityville Horror (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZM4aU6jJ8wx1tX3ElnZZdKjX8n.jpg" group-title="ULTIMAS agregadas*",The Amityville Horror (2005)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Invisible Man (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg" group-title="ULTIMAS agregadas*",The Invisible Man (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rookie of the Year (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f5w3eVB7GDE1s8LMiKaN9ybg6Dw.jpg" group-title="ULTIMAS agregadas*",Rookie of the Year (1993)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Queen: Rock Montreal & Live Aid (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RHULatlEIHsfFHQNE8ReEtJ9Em.jpg" group-title="ULTIMAS agregadas*",Queen: Rock Montreal & Live Aid (2007)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carteles Unidos (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5f0KtfVpaTXlVrcvbP7BVPUeTy.jpg" group-title="ULTIMAS agregadas*",Carteles Unidos (2012)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guns N' Roses: Appetite for Democracy (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lP7wFjz8gGlDYjJHt4pkpeLjbzK.jpg" group-title="ULTIMAS agregadas*",Guns N' Roses: Appetite for Democracy (2012)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Underwater (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg" group-title="ULTIMAS agregadas*",Underwater (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vivarium (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/myf3qzpeN0JbuFRPwSpJcz7rmAT.jpg" group-title="ULTIMAS agregadas*",Vivarium (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="What Love Looks Like (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFI6Pk7InG1TSb9SSIf9svBXDnD.jpg" group-title="ULTIMAS agregadas*",What Love Looks Like (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Color Out of Space (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkwgzCBBiY3C1XEy0WakYfMOvnG.jpg" group-title="ULTIMAS agregadas*",Color Out of Space (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trans Resistance (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0cjb5vIDWgGKPpGVMZ4ih4mYkq.jpg" group-title="ULTIMAS agregadas*",Trans Resistance (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Purity Falls (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zjKdP6mXzpeATxsbDUfMyenbJe.jpg" group-title="ULTIMAS agregadas*",Purity Falls (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hooking Up (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5QXP7qdwtPRiZy6cQTjRoaTXuW.jpg" group-title="ULTIMAS agregadas*",Hooking Up (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carrion (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boaaRbwKaew4fkP6XlLe4xRePq.jpg" group-title="ULTIMAS agregadas*",Carrion (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Night of Horror: Nightmare Radio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7EYDfGgNEF1IQymS7EvDLKnpxT.jpg" group-title="ULTIMAS agregadas*",A Night of Horror: Nightmare Radio (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist: The Phenomenon (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E7gI52iwkXV9BEo5IfTKj36Lw7.jpg" group-title="ULTIMAS agregadas*",Money Heist: The Phenomenon (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Son of Batman (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOeZoII7dEQ16DMkXXHnBMTgiVI.jpg" group-title="ULTIMAS agregadas*",Son of Batman (2014)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="License to Drive (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9itSa33ZrO7rJz73lVv39VeGs9e.jpg" group-title="ULTIMAS agregadas*",License to Drive (1988)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bella (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftu0EfGlyoMWa5ItYS945DzqFWc.jpg" group-title="ULTIMAS agregadas*",Bella (2006)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Still See You (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fqzZs922V8OmwgO11Eqclof2mQ.jpg" group-title="ULTIMAS agregadas*",I Still See You (2018)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Death Sentence (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1d4SMAcBDJXx0vexedKvK50ZEH.jpg" group-title="ULTIMAS agregadas*",Death Sentence (2007)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg" group-title="ULTIMAS agregadas*",Bad Boys for Life (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ready to Rumble (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRJNUXbeTte3MmpCqCRs53W7HIR.jpg" group-title="ULTIMAS agregadas*",Ready to Rumble (2000)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg" group-title="ULTIMAS agregadas*",Bad Boys for Life (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jexi (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdYhXJPoV0Kvwdih74lejHPTyWL.jpg" group-title="ULTIMAS agregadas*",Jexi (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Red Riding Hood (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aILYBuiGnPZd3KwqDJpmzeQKMe2.jpg" group-title="ULTIMAS agregadas*",Little Red Riding Hood (1995)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ZZ Top: That Little Ol' Band From Texas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7on5FoE6Ru5HJZRAImQVDdiedUe.jpg" group-title="ULTIMAS agregadas*",ZZ Top: That Little Ol' Band From Texas (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Banker (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/biXzsw22U6vSd0XktmZwAOc4uik.jpg" group-title="ULTIMAS agregadas*",The Banker (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Odd Family: Zombie on Sale (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmflq3HXg8rNbviAnP6kwzKcJ9T.jpg" group-title="ULTIMAS agregadas*",The Odd Family: Zombie on Sale (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="System Crasher (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YqbeGd7ojtxRukKhvoq6Bgf4t8.jpg" group-title="ULTIMAS agregadas*",System Crasher (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Death Doesn't Exist, and Love Doesn't Either (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ku7r4LhmXo8ll8NU1w0P8I50PUb.jpg" group-title="ULTIMAS agregadas*",Death Doesn't Exist, and Love Doesn't Either (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Swallows of Kabul (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djd3QU6ThcDSOEGMuUl1h1Am8sN.jpg" group-title="ULTIMAS agregadas*",The Swallows of Kabul (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bad Fox and Other Tales (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Nib5a3p2O7yPFSTTNwChp0cnsh.jpg" group-title="ULTIMAS agregadas*",The Big Bad Fox and Other Tales (2017)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Home, Sweet Home (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRtSJpfJO3ccE07QGMnZ5tOp3eI.jpg" group-title="ULTIMAS agregadas*",Home, Sweet Home (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hero (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNFgMECfGvDEftfBsGIXUELOKM2.jpg" group-title="ULTIMAS agregadas*",Hero (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby and Me (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk3Wsxe0RZK8DQicafEfo2DZyot.jpg" group-title="ULTIMAS agregadas*",Baby and Me (2008)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ali & Nina (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8Ww6T1jOxR4tjqLfYPtSMgm065.jpg" group-title="ULTIMAS agregadas*",Ali & Nina (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Big Time Adolescence (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFjhHlHjiWouLmJWxGMHGn1MQKX.jpg" group-title="ULTIMAS agregadas*",Big Time Adolescence (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adiós (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1pSmpQOexCjUQokW3JK4KSe9I7.jpg" group-title="ULTIMAS agregadas*",Adiós (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="After Truth: Disinformation and the Cost of Fake News (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RtCBnCnsEqcTQejPQ1lIiCE75r.jpg" group-title="ULTIMAS agregadas*",After Truth: Disinformation and the Cost of Fake News (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="47 Hours to Live (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2iAQLgwvdD3l7jQitPnLly7TC2.jpg" group-title="ULTIMAS agregadas*",47 Hours to Live (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Not A Minute To Lose (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uefuCRunhO2knh0dqb12ziskhMc.jpg" group-title="ULTIMAS agregadas*",Not A Minute To Lose (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Okavango (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/na552Awd4Y7d9bNMaPALWMwdLrH.jpg" group-title="ULTIMAS agregadas*",Into the Okavango (2018)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Incident at Montauk (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xW8IgkpKPICmBeLjBi4SXFu48Zb.jpg" group-title="ULTIMAS agregadas*",Incident at Montauk (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="In Search of Darkness (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wh1fiomVxP98ItRnCtH40971cx.jpg" group-title="ULTIMAS agregadas*",In Search of Darkness (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="One Piece: Stampede (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4E2lyUGLEr3yH4q6kJxPkQUhX7n.jpg" group-title="ULTIMAS agregadas*",One Piece: Stampede (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coach Carter (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3HOTTyM5nLsdUzXFtFCohG28qj.jpg" group-title="ULTIMAS agregadas*",Coach Carter (2005)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Call of the Wild (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33VdppGbeNxICrFUtW2WpGHvfYc.jpg" group-title="ULTIMAS agregadas*",The Call of the Wild (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Metallica Big Four" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlW5XYl4bLbBJH4xB6kXti56ZF5.jpg" group-title="ULTIMAS agregadas*",Metallica Big Four
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Still Believe (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqA2FCzz4OMmXLitKopzf476RVB.jpg" group-title="ULTIMAS agregadas*",I Still Believe (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Suplex Duplex Complex (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHh7lgBX37O5uXvml9JDr6y7lhZ.jpg" group-title="ULTIMAS agregadas*",The Suplex Duplex Complex (2017)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hunt (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg" group-title="ULTIMAS agregadas*",The Hunt (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miracle in Cell No. 7 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOth4QmNyEkalwahfPCfiXjNh1r.jpg" group-title="ULTIMAS agregadas*",Miracle in Cell No. 7 (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coronavirus: The Silent Killer (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7RUGlfQt8ZQsyhYEtwOnuykYSw.jpg" group-title="ULTIMAS agregadas*",Coronavirus: The Silent Killer (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Altered Carbon: Resleeved (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTamgU6ZofNQeCAlwyjMvy7lKSx.jpg" group-title="ULTIMAS agregadas*",Altered Carbon: Resleeved (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Respira: Transgenesis (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zvPwbYC1gIO4bKUJU8Ef15U2Pd.jpg" group-title="ULTIMAS agregadas*",Respira: Transgenesis (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg" group-title="ULTIMAS agregadas*",Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Onward (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg" group-title="ULTIMAS agregadas*",Onward (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Invisible Man (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg" group-title="ULTIMAS agregadas*",The Invisible Man (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg" group-title="ULTIMAS agregadas*",Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emma. (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sm8iVzA7kRp0d4BSIsgXjsSBMKV.jpg" group-title="ULTIMAS agregadas*",Emma. (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Contagio (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyV4nLW587tgLoAmUVUM82qldaM.jpg" group-title="ULTIMAS agregadas*",Contagio (2009)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ralph Breaks the Internet (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEnH5meR381iMpmCumAIMswcQw2.jpg" group-title="ULTIMAS agregadas*",Ralph Breaks the Internet (2018)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: The Rise of Skywalker (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/db32LaOibwEliAmSL2jjDF6oDdj.jpg" group-title="ULTIMAS agregadas*",Star Wars: The Rise of Skywalker (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Women (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg" group-title="ULTIMAS agregadas*",Little Women (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Twofold Pregnancy (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcTppRqJBs6gUFgg010tZGQLxyr.jpg" group-title="ULTIMAS agregadas*",A Twofold Pregnancy (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji: The Next Level (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg" group-title="ULTIMAS agregadas*",Jumanji: The Next Level (2019)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cindy la regia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxcuX1Rx0wQQDSozriasW3M61vI.jpg" group-title="ULTIMAS agregadas*",Cindy la regia (2020)
+http://iptvactivador.online:25461/movie/xtreamiptvzutv/SbAJs9NRSA/16236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV (Opt-1)" tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="NASA TV",NASA TV (Opt-1)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/16237
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV (Opt-2)" tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="NASA TV",NASA TV (Opt-2)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/16238
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV Media" tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="NASA TV",NASA TV Media
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/16239
+#EXTINF:-1 tvg-id="" tvg-name="CCI Channel (Honduras)" tvg-logo="https://www.ccichannel.tv/wp-content/uploads/2018/01/CCICHANNELlogo.png" group-title="HONDURAS",CCI Channel (Honduras)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/16240
+#EXTINF:-1 tvg-id="" tvg-name="5 El Lider (Honduras)" tvg-logo="https://imagenes.gatotv.com/logos/canales/5_el_lider_honduras.png" group-title="HONDURAS",5 El Lider (Honduras)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/16241
+#EXTINF:-1 tvg-id="" tvg-name="SiTV (Honduras)" tvg-logo="https://i.imgur.com/RrnQlQg.png" group-title="HONDURAS",SiTV (Honduras)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/16242
+#EXTINF:-1 tvg-id="" tvg-name="Campus TV (Honduras)" tvg-logo="http://live.campushd.tv/wp-content/uploads/2017/04/LOGO-CAMPUS.png" group-title="HONDURAS",Campus TV (Honduras)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/16243
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 El Lider (Honduras)" tvg-logo="https://imagenes.gatotv.com/logos/canales/5_el_lider_honduras.png" group-title="HONDURAS",Canal 5 El Lider (Honduras)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/16244
+#EXTINF:-1 tvg-id="" tvg-name="Suyapa TV (Honduras)" tvg-logo="https://i.imgur.com/DvOtC0S.png" group-title="HONDURAS",Suyapa TV (Honduras)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/16245
+#EXTINF:-1 tvg-id="" tvg-name="Teleceiba Canal 7 (Honduras)" tvg-logo="https://i.imgur.com/FwcwAJ7.png" group-title="HONDURAS",Teleceiba Canal 7 (Honduras)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/16246
+#EXTINF:-1 tvg-id="" tvg-name="TEN Canal 10 (Honduras)" tvg-logo="https://i.imgur.com/4kplu7b.png" group-title="HONDURAS",TEN Canal 10 (Honduras)
+http://iptvactivador.online:25461/xtreamiptvzutv/SbAJs9NRSA/16247
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E01" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ4YWRmYzgtZDVjMC00MmYxLTg3YmEtYmQ3ZmQyNDZkNmQ4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E01
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E02" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmUzMDA0MWEtMDE4YS00YThhLWEzOGQtMjIxZmU5NzVjOGFkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E02
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E03" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTU5NmE3OTMtZjc1NS00ZjE3LThjOGItZTZmZjg0N2Q3OWFkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E03
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E04
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E05
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E06
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E07
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E08
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E09
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E10
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E11
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E12
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E13
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E14
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E15
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E16
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E17
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E18
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E19
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E20
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E21
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E22
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E23
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E24
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E25
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E26
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E27
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E28
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E29
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E30
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E31
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E32
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E33
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E34
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E35
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E36
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E37
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E38
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E39
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E40
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E41
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E42
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E43
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E44
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E45
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E46
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E47
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Cartel de los Sapos S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg" group-title="NARCO SERIES",El Cartel de los Sapos S01 E48
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/isuCJCPSfHT9VL9zcK1QsUnYyXN.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E01
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/rGZ9EGopcWUa4a9z7ip3hy809FE.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E02
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/4TS54D0xD1QjqQo83oLQkMMsVIr.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E03
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/nhtkPoHtN7mSjc6jr5clxzFf4GZ.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E04
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/dMYnjfvRC6C7qcWmyeeHp4knsXU.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E05
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/3x35nUYODnymc6eJPBGsQGznPLv.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E06
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/ixfWaWXpSGsfIL0aND2cMYI5oVh.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E07
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/vMkJQKFX0jglWYjbzFE0ahv652B.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E08
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/wnK3C174qhw5x68fBp9cAqx1xlG.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E09
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/jqUzcMFLCgZQY31qyfSJVasXo6y.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E10
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/cqnkHc86cpvZ6ekYMDltl4DHqqE.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E11
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/nQ7ubeNrnIzxejtuW91hP0o8TuB.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E12
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/fsFEbB19VBYtiVkRgyMJ0Uwu7Pi.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E13
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E14" tvg-logo="https://image.tmdb.org/t/p/w300/fzFLPFRao3CFQ10fD0NVccnAIkf.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E14
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E15" tvg-logo="https://image.tmdb.org/t/p/w300/h31dypkzmzhipGXmY66pncEaXFq.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E15
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E16" tvg-logo="https://image.tmdb.org/t/p/w300/wbxmZBTaGLDKejuD9qhZJ08S61v.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E16
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E17" tvg-logo="https://image.tmdb.org/t/p/w300/n9nY8EEQu2EOqz7SnR4wS3tmTN8.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E17
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E18" tvg-logo="https://image.tmdb.org/t/p/w300/Afy6qkeNovGAkcRcAZmCRxGJMhB.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E18
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E19" tvg-logo="https://image.tmdb.org/t/p/w300/e6o1JCXvPEJ1zusbmGep53lTyU2.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E19
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E20" tvg-logo="https://image.tmdb.org/t/p/w300/wJbxzWW8EVpCSqV4ztGshs5h78M.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E20
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E21
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E22
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E23
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E24
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E25
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E26
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E27
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E28
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E29
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E30
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E31
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E32
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E33
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E34
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E35
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E36
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E37
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E38
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E39
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E40
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E41
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E42
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E43
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E44
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E45
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E46
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E47" tvg-logo="https://image.tmdb.org/t/p/w300/1YTTJCjqp77kRUmfq9LjuU2eONP.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E47
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E48
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E49
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E50
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E51
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E52
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E53
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E54
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E55
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E56
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E57
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E58
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E59
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E60
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E61
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E62
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E63
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E64
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E65
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E66
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E67
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E68
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E69
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E70
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E71
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E72
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E73
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E74
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E75
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E76
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E77
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E78
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar, el patrón del mal S01 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awqZogzJnGNfliNe4AS31cc32Za.jpg" group-title="NARCO SERIES",Pablo Escobar, el patrón del mal S01 E79
+http://iptvactivador.online:25461/series/xtreamiptvzutv/SbAJs9NRSA/8201.mp4
